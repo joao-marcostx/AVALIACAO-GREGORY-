@@ -1,0 +1,11 @@
+{
+    "usuarios":[
+        {
+            "id": 1,
+            "nome": "bolos dos sonhos",
+            "email": "docemel@sodoce.com.b",
+            "senha":   "brigadeiro123"
+            
+        }
+    ]
+}
